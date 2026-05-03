@@ -21,7 +21,7 @@ As soon as I can update, I will do so, any tips or questions, I am available./As
 
     *How to use?/Como usar?
    
-git clone https://github.com/figpatrick/hcx-wifite.git
+git clone https://github.com/palexandrino/hcx-wifite.git
 
 cd hcx-wifite/
 
